@@ -1,0 +1,23 @@
+header {
+    padding-top: 200px;
+}
+.box-gall {
+    padding: 0;
+}
+hr {
+    width: 100px;
+    margin: 20px auto;
+    border: 2px solid orange;
+}
+.pp {
+    width: 100px;
+    margin: 20px auto;
+    border: 2px solid orange;
+}
+header {
+    background-image: url(../imge/desktop-wallpaper-lawyer-mobile-advocate.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
